@@ -6,15 +6,18 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Welcome to Deep Learning 23 Fall course!
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+You can find information about attendance, individual achievements, and important deadlines on this page. Also below are slides of covered topics and homework assignments.
 
 ## Header 2
+
+| Date         | Slides            | Assignments |
+|:-------------|:------------------|:------------|
+| ok           | good swedish fish | nice        |
+| out of stock | good and plenty   | nice        |
+| ok           | good `oreos`      | hmm         |
+| ok           | good `zoute` drop | yumm        |
 
 > This is a blockquote following a header.
 >
