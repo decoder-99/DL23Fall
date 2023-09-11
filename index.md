@@ -12,7 +12,7 @@ You can find information about attendance, individual achievements, and importan
 
 | Date         | Slides            | Assignments | Deadline |
 |:-------------|:------------------|:------------|:------------|
-|              | [Introduction to Deep Learning](https://docs.google.com/presentation/d/1eUC5Ox6Pc6iZkHAWUPFH_y36gUh7YusSLOkGWsNahcs/edit?usp=sharing)                   |       [Questionnaire 1](https://t.me/c/1572831055/110)      |
+|11/09/2023              | [Introduction to Deep Learning](https://docs.google.com/presentation/d/1eUC5Ox6Pc6iZkHAWUPFH_y36gUh7YusSLOkGWsNahcs/edit?usp=sharing)                   |             |
 |              |                   |             |
 |              |                   |             |
 |              |                   |             |
