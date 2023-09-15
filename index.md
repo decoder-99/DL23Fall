@@ -13,6 +13,9 @@ You can find information about attendance, individual achievements, and importan
 | Date         | Slides            | Assignments | Deadline |
 |:-------------|:------------------|:------------|:------------|
 |11/09/2023              | [Introduction to Deep Learning](https://docs.google.com/presentation/d/1eUC5Ox6Pc6iZkHAWUPFH_y36gUh7YusSLOkGWsNahcs/edit?usp=sharing)                   |             |
+|15/09/2023              | [Gradient Descent and Learning rate](https://docs.google.com/presentation/d/1zk27mLlmfH7-Y9nDwCYTH0YgWCNeBuHDf9Rf9roF4Vo/edit?usp=sharing)                  |             |
 |              |                   |             |
 |              |                   |             |
-|              |                   |             |
+
+
+
