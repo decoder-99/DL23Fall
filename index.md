@@ -18,4 +18,4 @@ You can find information about attendance, individual achievements, and importan
 |22/09/2023              | Over/underfitting, Regularization                  |             |
 
 ## Useful Links
-[3Blue1Brown](https://www.3blue1brown.com/lessons/backpropagation-calculus#computing-the-first-derivative)
+[3Blue1Brown](https://www.3blue1brown.com/)
