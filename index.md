@@ -18,6 +18,6 @@ You can find information about attendance, individual achievements, and importan
 |22/09/2023              | [Over/underfitting, Regularization](https://docs.google.com/presentation/d/1ChkgLKawed_v5yOyyJJkBCRe3tWdzmTB7w1_wQqqtls/edit?usp=sharing)                  |Choose research topic and presentation date and fill in [Table](https://docs.google.com/spreadsheets/d/1-qjqeRSOeg4kUr3ZX7Zh_oy4yY5vvhzJYrNGVefGzOE/edit?usp=sharing)             | 05/10/2023
 |25/09/2023|[Convolutional Neural Networks](https://docs.google.com/presentation/d/1erjt3Jopaj-E-BTpDUCJrGNmCkOLAxds_iPhqprITck/edit?usp=sharing) ||
 |29/09/2023|[ResNet and DenseNet](https://docs.google.com/presentation/d/1RpMpUHhCP08ift7g01E3c2wOeZSbQtPvmzM030Pc_WI/edit?usp=sharing)||
-|02/10/2023|[Recurrent Neural Networks](https://docs.google.com/presentation/d/1-TP81w5xy8SkKrmY_ceupp4mBd5zYLAnJJQpzefYRRc/edit?usp=sharing)|
+|02/10/2023|[Recurrent Neural Networks](https://docs.google.com/presentation/d/1-TP81w5xy8SkKrmY_ceupp4mBd5zYLAnJJQpzefYRRc/edit?usp=sharing)||
 ## Useful Links
 [3Blue1Brown](https://www.3blue1brown.com/)
