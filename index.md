@@ -19,6 +19,7 @@ You can find information about attendance, individual achievements, and importan
 |25/09/2023|[Convolutional Neural Networks](https://docs.google.com/presentation/d/1erjt3Jopaj-E-BTpDUCJrGNmCkOLAxds_iPhqprITck/edit?usp=sharing) ||
 |29/09/2023|[ResNet and DenseNet](https://docs.google.com/presentation/d/1RpMpUHhCP08ift7g01E3c2wOeZSbQtPvmzM030Pc_WI/edit?usp=sharing)||
 |02/10/2023|[Recurrent Neural Networks](https://docs.google.com/presentation/d/1-TP81w5xy8SkKrmY_ceupp4mBd5zYLAnJJQpzefYRRc/edit?usp=sharing)||
+|06/10/2023|[Introduction to NLP](https://docs.google.com/presentation/d/1lwDIev8BkcdFOvyX4ox8X_Z21fcCQt1Ezs-j2HpWqVI/edit?usp=sharing)||
 
 
 ## Useful Links
