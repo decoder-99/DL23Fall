@@ -20,7 +20,13 @@ You can find information about attendance, individual achievements, and importan
 |29/09/2023|[ResNet and DenseNet](https://docs.google.com/presentation/d/1RpMpUHhCP08ift7g01E3c2wOeZSbQtPvmzM030Pc_WI/edit?usp=sharing)||
 |02/10/2023|[Recurrent Neural Networks](https://docs.google.com/presentation/d/1-TP81w5xy8SkKrmY_ceupp4mBd5zYLAnJJQpzefYRRc/edit?usp=sharing)||
 |06/10/2023|[Introduction to NLP](https://docs.google.com/presentation/d/1lwDIev8BkcdFOvyX4ox8X_Z21fcCQt1Ezs-j2HpWqVI/edit?usp=sharing)||
+|09/10/2023|[Word2Vec and Seq2Seq](https://docs.google.com/presentation/d/1FUq64oeNeW-7Tc7dwq59VAWI93U6GftEu5XgVVl9wKM/edit?usp=sharing)||
 
+
+## Grades
+[Grade Table](https://docs.google.com/spreadsheets/u/1/d/1QJ4Cm1Rdv3fP86WrH8BE5qv18aH5pdeAdx1l7fTX1mU/edit#gid=0)
 
 ## Useful Links
 [3Blue1Brown](https://www.3blue1brown.com/)
+
+
