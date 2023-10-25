@@ -22,7 +22,7 @@ You can find information about attendance, individual achievements, and importan
 |06/10/2023|[Introduction to NLP](https://docs.google.com/presentation/d/1lwDIev8BkcdFOvyX4ox8X_Z21fcCQt1Ezs-j2HpWqVI/edit?usp=sharing)||
 |09/10/2023|[Word2Vec and Seq2Seq](https://docs.google.com/presentation/d/1FUq64oeNeW-7Tc7dwq59VAWI93U6GftEu5XgVVl9wKM/edit?usp=sharing)||
 |16/10/2023|[Attention is All You Need](https://docs.google.com/presentation/d/1GDX415J9HMfPlUp6-8lDj2L4XQfRoDO_9jYFPHnglU0/edit?usp=sharing)||
-
+|13/10/2023|[BERT: Bidirectional Encoder Representations from Transformers](https://docs.google.com/presentation/d/1uLElfQ9BuybHmDdBDSoa6GrrGxm5FN0shi8MsXDKMZY/edit?usp=sharing)||
 
 ## Grades
 [Grade Table](https://docs.google.com/spreadsheets/u/1/d/1QJ4Cm1Rdv3fP86WrH8BE5qv18aH5pdeAdx1l7fTX1mU/edit#gid=0)
