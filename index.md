@@ -26,6 +26,8 @@ You can find information about attendance, individual achievements, and importan
 |30/10/2023|[Deep Generative Modeling](https://docs.google.com/presentation/d/1pklU2NMhPtbQx8i9grTWN6OwzarUhXSJByFoU-uNl_M/edit?usp=sharing)||
 |06/10/2023|[Code Generation](https://docs.google.com/presentation/d/1--dTORoL1Kqc4TTw8Wn5cyn1VNdnJKCgWNaUcQ0itEo/edit?usp=sharing)||
 |13/11/2023|[GPT Family](https://docs.google.com/presentation/d/1hslS7nVyXDE7PyV9kNDiMH0bknswy6ZF1-9jB7VyxqY/edit?usp=sharing)||
+|20/11/2023|[Diffusion Models](https://docs.google.com/presentation/d/1GCKS3WXBlesJHDLtcnY5Evy2OvRDdOjQ_OSaipUV9J4/edit?usp=sharing)||
+
 
 ## Grades
 [Grade Table](https://docs.google.com/spreadsheets/u/1/d/1QJ4Cm1Rdv3fP86WrH8BE5qv18aH5pdeAdx1l7fTX1mU/edit#gid=0)
